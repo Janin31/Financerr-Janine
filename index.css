@@ -123,7 +123,7 @@
       rgba(97, 107, 98, 0.59),
       rgba(97, 107, 98, 0.954)
     ),
-    url("img/back.jpg");
+    url("back.jpg");
   background-size: cover;
   background-color: transparent;
 }
